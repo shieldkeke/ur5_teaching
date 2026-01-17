@@ -1,0 +1,4 @@
+ur5_moveit_cpp:
+  ros__parameters:
+    planning_group: ur_manipulator
+    joint_goal: [0.0, -1.57, 0.0, -1.57, 0.0, 0.0]
