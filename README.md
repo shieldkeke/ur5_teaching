@@ -13,6 +13,3 @@ ros2 run ur5_teaching_cpp test_move_arm_cpp --ros-args --params-file src/ur5_tea
 ```
 
 joints are configured in [src/ur5_teaching_cpp/config/joint_goal.yaml](src/ur5_teaching_cpp/config/joint_goal.yaml) 
-
-Detailed Document:
-https://www.kdocs.cn/l/cb2bHg1CPjMw
